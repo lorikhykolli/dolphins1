@@ -1,0 +1,234 @@
+* { 
+    padding: 0;
+    margin: 0;
+    font-family: 'Rubik', sans-serif;
+   
+} 
+
+/*Pjesa e nav-bar dhe Logo**/ 
+body { 
+    color:#00337C 
+}
+.foto { 
+    margin-right: 100px;
+}
+.container-fluid { 
+    padding: 2% 5%;
+}
+#title { 
+    margin-top: -20px;
+    padding-bottom: 70px;
+    background-color: #C1EFFF;
+}
+
+#title a{ 
+    color: #00337C;
+}
+
+#title a:hover{ 
+    color: blue;
+    font-weight: 900;
+}
+.row h1 { 
+    font-size: 70px;
+    margin-left: 24%;
+    font-weight: 900;
+    color: #00337C;
+} 
+.row h1:hover{ 
+    color: blue;
+}
+.row i{ 
+    padding-top: 30px;
+    margin-left: 24%;
+    font-size: 20px;
+    text-transform: lowercase;
+}
+#vazhdimi i { 
+    padding-bottom: 30px;
+    padding-left: 20px;
+    font-size: 40px;
+}
+.row h6 { 
+    margin-top: 100px; 
+    margin-left: 25%;
+    font-weight: 900;
+    color:#00337C
+    
+} 
+.row h2 { 
+    font-weight: 500;
+    margin-left: 180px;
+    font-size: 15px;
+}
+.nav-link { 
+    text-transform: uppercase;
+    font-weight: 700;
+    padding-top: 30px;
+    margin: 10px 15px;
+    text-align: center;
+}  
+
+/**Vazhdimi i nje secion i RI **/ 
+
+#vazhdimi { 
+   padding-top: 40px;
+   background-color: #00337C;
+   padding-top: 50px;  
+   color: white;
+   padding-left: 20px;
+   height: 400px;
+   padding-top: 100px;
+}
+
+/**Kush jemi ne**/ 
+#about { 
+    padding-top: 40px;  background-color: #C1EFFF;
+
+}
+#about h1,h2 { 
+    text-align: left;
+    
+}  
+
+#about h1{ 
+    font-size: 60px;
+    font-weight: 900;
+    padding-top: 100px;
+    padding-left: 50px;
+}
+
+#about h2{ 
+    font-size: 20px;
+    font-weight: 500;
+    padding-left: 50px;
+}
+
+#about i { 
+    margin-left: 7px;
+    font-size: 20px;
+    font-weight: 900;
+}
+/**SHERBIMET **/ 
+
+#sherbimet h1{ 
+    text-align: center;
+    font-weight: 900;
+    padding-top: 50px;
+    padding-bottom: 40px;
+} 
+
+#sherbimet h5 { 
+    font-size: 30px;
+    font-weight: 500px;
+} 
+
+#sherbimet p { 
+    font-weight: 200;
+} 
+#sherbimet a { 
+    background-color: #00337C;
+    color: white; 
+    width: 300px;
+    height: 40px;
+    border-radius: 15px;
+    margin-left: 55px;
+} 
+#sherbimet a:hover { 
+    background-color: white;
+    color:#00337C
+}
+#sherbimet { 
+    margin-right: 1px;
+    background-color: #C1EFFF;
+    padding-top: 100px;
+    padding-bottom: 80px;
+} 
+#sherbimet img { 
+    width: 250px;
+    height: 100px;
+}
+
+#sherbimet .card { 
+    margin-bottom: 20px; 
+}
+
+
+/***Experience**/
+ #experience { 
+    height: 400px;
+
+ }
+ #experience h1 { 
+    padding-top: 60px; 
+    font-size: 180px;
+    font-weight: 900;
+
+ } 
+
+ #experience h3{ 
+    padding-left: 110px;
+ }
+
+ #experience h2 { 
+    font-size: 33px; 
+    margin-left: 20px;
+    padding-top: 100px;
+    font-weight: 700;
+ }
+
+ #experience p:first-child{ 
+    padding-top: 100px;
+ }
+
+ #experience p { 
+    padding-left: 100px;
+ }
+ 
+/** FOOTER ***/ 
+
+#footer { 
+    height: 200px; 
+    text-align: center;
+    background-color: #00337C;
+    color: white;
+    padding-top: 30px;
+}
+
+#footer i{ 
+    font-size: 30px;
+    padding-right: 70px;
+    
+} 
+
+#footer p { 
+    padding-top: 10px;
+}
+
+/**KONTAKTI**/ 
+
+#kontakt h1{ 
+    font-size: 20px;
+} 
+
+#kontakt h2{ 
+    font-size: 40px;
+    font-weight: 700;
+    margin-left: 15px;
+    padding-top: 100px;
+    text-align: left;
+}
+
+#kontakt button{ 
+    margin-left: 150px;
+    width: 400px;
+    margin-bottom: 50px;
+    background-color: #00337C;
+    color: white;
+    border-radius: 25px;
+}
+
+#kontakt { 
+    margin-left: 15px;
+    margin-top: 80px;
+}
